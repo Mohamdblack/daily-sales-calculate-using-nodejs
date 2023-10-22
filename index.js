@@ -10,7 +10,7 @@ const rl = readline.createInterface({
 
 
 console.log();
-console.log(chalk.black.bgRed.bold("============================= this is Daily sales calc ============================="));
+console.log(chalk.black.bgRed.bold("============================= this is Daily sales calculator ============================="));
 console.log();
 
   rl.question("Enter first month :- ",(firstMonth)=>{
